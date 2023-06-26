@@ -1,4 +1,37 @@
 # [React Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet)
+
+## [TypeScript + React: Component Patterns](https://fettblog.eu/typescript-react-component-patterns/)
+
+## [Become a Pro React Developer](https://www.youtube.com/playlist?list=PLNqp92_EXZBJs6rKouX5U8-tWJgTLaeKv)
+## [The React Ecosystem in 2023](https://www.builder.io/blog/react-js-in-2023)
+
+---
+# CheatSheets for Web Developers ♥️
+
+## [1- HTML CheatSheet](https://htmlcheatsheet.com/)
+## [2- CSS Reference](https://cssreference.io/)
+## [3- GitSheet](https://gitsheet.wtf/)
+## [4- OverAPI ](https://overapi.com/)
+## [5- Dev Hints](https://devhints.io/)
+## [6- Cheatography](https://cheatography.com/)
+## [7- Awesome-Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
+## [8- Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+## [9- HTML5 Element Index](http://html5doctor.com/element-index/)
+## [10- Can I Use](https://caniuse.com/)
+## [11- Rico's cheatsheets](https://devhints.io/)
+## [12- CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
+## [13- CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+## [14- Grid](https://grid.malven.co/)
+## [15- Media Queries Cheat Sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet)
+## [16- HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+## [17- Web Developer's SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet)
+## [18- Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+## [19- Developer cheatsheets](http://www.developer-cheatsheets.com/)
+## [20- Vue Cheatsheet](https://marozed.com/vue-cheatsheet/)
+## [21- 30secondsofcode](https://www.30secondsofcode.org/css/p/1)
+## [22- Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+## [23- CSS Grid Cheat Sheet Illustrated](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)
+## [24- Flexbox Cheat Sheet](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
 ---
 
 # Mastering C#
